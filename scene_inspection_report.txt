@@ -1,0 +1,890 @@
+Parsed Scene: c:\Users\Yousef\Downloads\RoomGame\Assets\Scenes\Main.unity
+GameObjects: 398
+Prefabs: 47
+Transforms: 42
+=========================================
+
+- GO: Cube (20) (ID: 45757323)
+  Pos: ('3.786', '1.532', '-1.724'), Scale: ('0.7017584', '1.725651', '1.3970541')
+  Components: Class 65, Class 23 (Mats: New Material.mat), Class 33
+- GO: Unknown (ID: 46492200)
+  Components: Class 54
+- GO: Unknown (ID: 46492201)
+  Components: Class 64
+- GO: Unknown (ID: 46492202)
+  Components: Class 64
+- GO: Unknown (ID: 46492203)
+  Components: Class 64
+- GO: Unknown (ID: 52321362)
+  Components: Class 54
+- GO: Unknown (ID: 52321363)
+  Components: Class 64
+- GO: Unknown (ID: 52321364)
+  Components: Class 64
+- GO: Unknown (ID: 52321365)
+  Components: Class 64
+- GO: Unknown (ID: 52321366)
+  Components: Class 64
+- GO: Unknown (ID: 52321367)
+  Components: Class 64
+- GO: Unknown (ID: 52321368)
+  Components: Class 64
+- GO: Unknown (ID: 52321369)
+  Components: Class 64
+- GO: Unknown (ID: 52321370)
+  Components: Class 64
+- GO: Unknown (ID: 52321371)
+  Components: Class 64
+- GO: Unknown (ID: 52321372)
+  Components: Class 64
+- GO: Cube (1) (ID: 77366070)
+  Pos: ('4.2253', '1.82', '-6.6419'), Scale: ('0.16763026', '2.4280217', '17.72144')
+  Components: Class 65, Class 23 (Mats: Bricks.mat), Class 33
+- GO: Unknown (ID: 151303169)
+  Components: Class 54
+- GO: Unknown (ID: 151303170)
+  Components: Class 64
+- GO: Unknown (ID: 151303171)
+  Components: Class 64
+- GO: Unknown (ID: 151303172)
+  Components: Class 64
+- GO: Unknown (ID: 151303173)
+  Components: Class 64
+- GO: Unknown (ID: 151303174)
+  Components: Class 64
+- GO: Unknown (ID: 151303175)
+  Components: Class 64
+- GO: Unknown (ID: 151303176)
+  Components: Class 64
+- GO: Unknown (ID: 151303177)
+  Components: Class 64
+- GO: Unknown (ID: 151303178)
+  Components: Class 64
+- GO: Unknown (ID: 151303179)
+  Components: Class 64
+- GO: Cube (19) (ID: 186462189)
+  Pos: ('3.786', '1.6012', '-3.138'), Scale: ('0.7017584', '1.81724', '1.3970541')
+  Components: Class 65, Class 23 (Mats: New Material.mat), Class 33
+- GO: Unknown (ID: 239192562)
+  Components: Class 54
+- GO: Unknown (ID: 239192563)
+  Components: Class 64
+- GO: Unknown (ID: 239192564)
+  Components: Class 64
+- GO: Unknown (ID: 239192565)
+  Components: Class 64
+- GO: Unknown (ID: 305383831)
+  Components: Class 54
+- GO: Unknown (ID: 305383832)
+  Components: Class 64
+- GO: Unknown (ID: 305383833)
+  Components: Class 64
+- GO: Unknown (ID: 305383834)
+  Components: Class 64
+- GO: Unknown (ID: 305383835)
+  Components: Class 64
+- GO: Unknown (ID: 305383836)
+  Components: Class 64
+- GO: Unknown (ID: 305383837)
+  Components: Class 64
+- GO: Unknown (ID: 305383838)
+  Components: Class 64
+- GO: Unknown (ID: 305383839)
+  Components: Class 64
+- GO: Unknown (ID: 305383840)
+  Components: Class 64
+- GO: Unknown (ID: 305383841)
+  Components: Class 64
+- GO: Cube (15) (ID: 315536124)
+  Pos: ('-1.9353', '1.7166', '1.968'), Scale: ('0.22868527', '2.221397', '2.5706904')
+  Components: Class 65, Class 23 (Mats: Bricks.mat), Class 33
+- GO: Unknown (ID: 346152620)
+  Components: Class 54
+- GO: Unknown (ID: 346152621)
+  Components: Class 64
+- GO: Unknown (ID: 346152622)
+  Components: Class 64
+- GO: Unknown (ID: 346152623)
+  Components: Class 64
+- GO: Unknown (ID: 382067972)
+  Components: Class 54
+- GO: Unknown (ID: 382067973)
+  Components: Class 64
+- GO: Unknown (ID: 382067974)
+  Components: Class 64
+- GO: Unknown (ID: 382067975)
+  Components: Class 64
+- GO: Unknown (ID: 382067976)
+  Components: Class 64
+- GO: Unknown (ID: 382067977)
+  Components: Class 64
+- GO: Unknown (ID: 382067978)
+  Components: Class 64
+- GO: Unknown (ID: 382067979)
+  Components: Class 64
+- GO: Unknown (ID: 382067980)
+  Components: Class 64
+- GO: Unknown (ID: 417720358)
+  Components: Class 54
+- GO: Unknown (ID: 417720359)
+  Components: Class 64
+- GO: Unknown (ID: 417720360)
+  Components: Class 64
+- GO: Unknown (ID: 417720361)
+  Components: Class 64
+- GO: Unknown (ID: 417720362)
+  Components: Class 64
+- GO: Unknown (ID: 417720363)
+  Components: Class 64
+- GO: Unknown (ID: 417720364)
+  Components: Class 64
+- GO: Unknown (ID: 449701645)
+  Components: Class 54
+- GO: Unknown (ID: 449701646)
+  Components: Class 64
+- GO: Unknown (ID: 449701647)
+  Components: Class 64
+- GO: Unknown (ID: 449701648)
+  Components: Class 64
+- GO: Unknown (ID: 449701649)
+  Components: Class 64
+- GO: Unknown (ID: 449701650)
+  Components: Class 64
+- GO: Unknown (ID: 449701651)
+  Components: Class 64
+- GO: Unknown (ID: 449701652)
+  Components: Class 64
+- GO: Unknown (ID: 449701653)
+  Components: Class 64
+- GO: Unknown (ID: 449701654)
+  Components: Class 64
+- GO: Unknown (ID: 449701655)
+  Components: Class 64
+- GO: Unknown (ID: 450424064)
+  Components: Class 54
+- GO: Unknown (ID: 450424065)
+  Components: Class 64
+- GO: Unknown (ID: 450424066)
+  Components: Class 64
+- GO: Unknown (ID: 450424067)
+  Components: Class 64
+- GO: Unknown (ID: 450424068)
+  Components: Class 64
+- GO: Unknown (ID: 450424069)
+  Components: Class 64
+- GO: Unknown (ID: 450424070)
+  Components: Class 64
+- GO: Unknown (ID: 450424071)
+  Components: Class 64
+- GO: Unknown (ID: 450424072)
+  Components: Class 64
+- GO: Unknown (ID: 450424073)
+  Components: Class 64
+- GO: Unknown (ID: 450424074)
+  Components: Class 64
+- GO: Unknown (ID: 474520009)
+  Components: Class 54
+- GO: Unknown (ID: 474520010)
+  Components: Class 64
+- GO: Unknown (ID: 474520011)
+  Components: Class 64
+- GO: Unknown (ID: 474520012)
+  Components: Class 64
+- GO: Cube (11) (ID: 485910618)
+  Pos: ('-3.08891', '1.816', '-2.8667002'), Scale: ('0.43108198', '2.4280217', '0.034253698')
+  Components: Class 65, Class 23 (Mats: New Material 1.mat), Class 33
+- GO: Cube (13) (ID: 524296773)
+  Pos: ('-3.089', '2.537', '-2.5331001'), Scale: ('0.4309155', '0.035735983', '0.7025912')
+  Components: Class 65, Class 23 (Mats: New Material 1.mat), Class 33
+- GO: Unknown (ID: 539879475)
+  Components: Class 54
+- GO: Unknown (ID: 539879476)
+  Components: Class 64
+- GO: Unknown (ID: 539879477)
+  Components: Class 64
+- GO: Unknown (ID: 539879478)
+  Components: Class 64
+- GO: Unknown (ID: 539879479)
+  Components: Class 64
+- GO: Unknown (ID: 539879480)
+  Components: Class 64
+- GO: Unknown (ID: 539879481)
+  Components: Class 64
+- GO: Unknown (ID: 539879482)
+  Components: Class 64
+- GO: Unknown (ID: 539879483)
+  Components: Class 64
+- GO: Unknown (ID: 539879484)
+  Components: Class 64
+- GO: Unknown (ID: 539879485)
+  Components: Class 64
+- GO: Unknown (ID: 588286691)
+  Components: Class 54
+- GO: Unknown (ID: 588286692)
+  Components: Class 64
+- GO: Unknown (ID: 588286693)
+  Components: Class 64
+- GO: Unknown (ID: 588286694)
+  Components: Class 64
+- GO: Unknown (ID: 588286695)
+  Components: Class 64
+- GO: Unknown (ID: 588286696)
+  Components: Class 64
+- GO: Unknown (ID: 588286697)
+  Components: Class 64
+- GO: Unknown (ID: 588286698)
+  Components: Class 64
+- GO: Unknown (ID: 588286699)
+  Components: Class 64
+- GO: Unknown (ID: 588286700)
+  Components: Class 64
+- GO: Unknown (ID: 588286701)
+  Components: Class 64
+- GO: Unknown (ID: 595752342)
+  Components: Class 54
+- GO: Unknown (ID: 595752343)
+  Components: Class 64
+- GO: Unknown (ID: 595752344)
+  Components: Class 64
+- GO: Unknown (ID: 595752345)
+  Components: Class 64
+- GO: Cube (8) (ID: 596682232)
+  Pos: ('-3.091', '1.816', '-2.5371'), Scale: ('0.42690262', '2.4280217', '0.69281137')
+  Components: Class 65, Class 23 (Mats: New Material.mat), Class 33
+- GO: Unknown (ID: 643771128)
+  Components: Class 54
+- GO: Unknown (ID: 643771129)
+  Components: Class 64
+- GO: Unknown (ID: 643771130)
+  Components: Class 64
+- GO: Unknown (ID: 643771131)
+  Components: Class 64
+- GO: Unknown (ID: 643771132)
+  Components: Class 64
+- GO: Unknown (ID: 643771133)
+  Components: Class 64
+- GO: Unknown (ID: 643771134)
+  Components: Class 64
+- GO: Cube (14) (ID: 682366031)
+  Pos: ('-3.089', '2.153', '-2.5331001'), Scale: ('0.4309155', '0.035735983', '0.7025912')
+  Components: Class 65, Class 23 (Mats: New Material 1.mat), Class 33
+- GO: Unknown (ID: 688874423)
+  Components: Class 54
+- GO: Unknown (ID: 688874424)
+  Components: Class 64
+- GO: Unknown (ID: 688874425)
+  Components: Class 64
+- GO: Unknown (ID: 688874426)
+  Components: Class 64
+- GO: Unknown (ID: 763367448)
+  Components: Class 54
+- GO: Unknown (ID: 763367449)
+  Components: Class 64
+- GO: Unknown (ID: 763367450)
+  Components: Class 64
+- GO: Unknown (ID: 763367451)
+  Components: Class 64
+- GO: Unknown (ID: 836223412)
+  Components: Class 54
+- GO: Unknown (ID: 836223413)
+  Components: Class 64
+- GO: Unknown (ID: 836223414)
+  Components: Class 64
+- GO: Unknown (ID: 836223415)
+  Components: Class 64
+- GO: Unknown (ID: 836223416)
+  Components: Class 64
+- GO: Unknown (ID: 836223417)
+  Components: Class 64
+- GO: Unknown (ID: 846816753)
+  Components: Class 54
+- GO: Unknown (ID: 846816754)
+  Components: Class 64
+- GO: Unknown (ID: 846816755)
+  Components: Class 64
+- GO: Unknown (ID: 846816756)
+  Components: Class 64
+- GO: Unknown (ID: 846816757)
+  Components: Class 64
+- GO: Unknown (ID: 846816758)
+  Components: Class 64
+- GO: Unknown (ID: 846816759)
+  Components: Class 64
+- GO: Unknown (ID: 945899945)
+  Components: Class 54
+- GO: Unknown (ID: 945899946)
+  Components: Class 64
+- GO: Unknown (ID: 945899947)
+  Components: Class 64
+- GO: Unknown (ID: 945899948)
+  Components: Class 64
+- GO: Unknown (ID: 945899949)
+  Components: Class 64
+- GO: Unknown (ID: 945899950)
+  Components: Class 64
+- GO: Unknown (ID: 945899951)
+  Components: Class 64
+- GO: Unknown (ID: 945899952)
+  Components: Class 64
+- GO: Unknown (ID: 945899953)
+  Components: Class 64
+- GO: Unknown (ID: 945899954)
+  Components: Class 64
+- GO: Unknown (ID: 945899955)
+  Components: Class 64
+- GO: Unknown (ID: 960009947)
+  Components: Class 54
+- GO: Unknown (ID: 960009948)
+  Components: Class 64
+- GO: Unknown (ID: 960009949)
+  Components: Class 64
+- GO: Unknown (ID: 960009950)
+  Components: Class 64
+- GO: Unknown (ID: 960009951)
+  Components: Class 64
+- GO: Unknown (ID: 960009952)
+  Components: Class 64
+- GO: Unknown (ID: 960009953)
+  Components: Class 64
+- GO: Unknown (ID: 960009954)
+  Components: Class 64
+- GO: Unknown (ID: 960009955)
+  Components: Class 64
+- GO: Unknown (ID: 960009956)
+  Components: Class 64
+- GO: Unknown (ID: 960009957)
+  Components: Class 64
+- GO: Player (ID: 1014123723)
+  Pos: ('0', '0.55', '-5'), Scale: ('1', '1', '1')
+  Components: Class 114, Class 136, Class 54
+  - GO: Visuals (ID: 344109355)
+    Pos: ('0', '0', '0'), Scale: ('1', '1', '1')
+    - GO: RightArmPivot (ID: 126310398)
+      Pos: ('0.17', '0.65', '0'), Scale: ('1', '1', '1')
+      - GO: RightArmVisual (ID: 985183076)
+        Pos: ('0', '-0.16', '0'), Scale: ('0.08', '0.32', '0.08')
+        Components: Class 23 (Mats: LimbMat.mat), Class 33
+    - GO: RightLegPivot (ID: 909996812)
+      Pos: ('0.07', '0.32', '0'), Scale: ('1', '1', '1')
+      - GO: RightLegVisual (ID: 196672802)
+        Pos: ('0', '-0.16', '0'), Scale: ('0.08', '0.32', '0.08')
+        Components: Class 23 (Mats: LimbMat.mat), Class 33
+    - GO: Head (ID: 1166999980)
+      Pos: ('0', '0.88', '0'), Scale: ('0.18', '0.18', '0.18')
+      Components: Class 23 (Mats: HeadMat.mat), Class 33
+    - GO: Torso (ID: 1598401483)
+      Pos: ('0', '0.52', '0'), Scale: ('0.25', '0.45', '0.15')
+      Components: Class 23 (Mats: TorsoMat.mat), Class 33
+    - GO: LeftLegPivot (ID: 1610780405)
+      Pos: ('-0.07', '0.32', '0'), Scale: ('1', '1', '1')
+      - GO: LeftLegVisual (ID: 908754402)
+        Pos: ('0', '-0.16', '0'), Scale: ('0.08', '0.32', '0.08')
+        Components: Class 23 (Mats: LimbMat.mat), Class 33
+    - GO: LeftArmPivot (ID: 1952727897)
+      Pos: ('-0.17', '0.65', '0'), Scale: ('1', '1', '1')
+      - GO: LeftArmVisual (ID: 1970188086)
+        Pos: ('0', '-0.16', '0'), Scale: ('0.08', '0.32', '0.08')
+        Components: Class 23 (Mats: LimbMat.mat), Class 33
+  - GO: Main Camera (ID: 387482663)
+    Pos: ('0', '0.88', '0.05'), Scale: ('1', '1', '1')
+    Components: Class 81, Class 20
+- GO: Unknown (ID: 1022053630)
+  Components: Class 54
+- GO: Unknown (ID: 1022053631)
+  Components: Class 64
+- GO: Unknown (ID: 1022053632)
+  Components: Class 64
+- GO: Unknown (ID: 1022053633)
+  Components: Class 64
+- GO: Unknown (ID: 1022053634)
+  Components: Class 64
+- GO: Unknown (ID: 1022053635)
+  Components: Class 64
+- GO: Unknown (ID: 1022053636)
+  Components: Class 64
+- GO: Unknown (ID: 1034759618)
+  Components: Class 54
+- GO: Unknown (ID: 1034759619)
+  Components: Class 64
+- GO: Unknown (ID: 1034759620)
+  Components: Class 64
+- GO: Unknown (ID: 1034759621)
+  Components: Class 64
+- GO: Unknown (ID: 1034759622)
+  Components: Class 64
+- GO: Unknown (ID: 1034759623)
+  Components: Class 64
+- GO: Unknown (ID: 1034759624)
+  Components: Class 64
+- GO: Unknown (ID: 1034759625)
+  Components: Class 64
+- GO: Unknown (ID: 1034759626)
+  Components: Class 64
+- GO: Unknown (ID: 1034759627)
+  Components: Class 64
+- GO: Unknown (ID: 1034759628)
+  Components: Class 64
+- GO: Unknown (ID: 1064838298)
+  Components: Class 54
+- GO: Unknown (ID: 1064838299)
+  Components: Class 64
+- GO: Unknown (ID: 1064838300)
+  Components: Class 64
+- GO: Unknown (ID: 1064838301)
+  Components: Class 64
+- GO: Unknown (ID: 1064838302)
+  Components: Class 64
+- GO: Unknown (ID: 1064838303)
+  Components: Class 64
+- GO: Unknown (ID: 1064838304)
+  Components: Class 64
+- GO: Unknown (ID: 1064838305)
+  Components: Class 64
+- GO: Unknown (ID: 1064838306)
+  Components: Class 64
+- GO: Unknown (ID: 1107956284)
+  Components: Class 54
+- GO: Unknown (ID: 1107956285)
+  Components: Class 64
+- GO: Unknown (ID: 1107956286)
+  Components: Class 64
+- GO: Unknown (ID: 1107956287)
+  Components: Class 64
+- GO: Screen (ID: 1154983170)
+  Pos: ('-2.429', '1.6319', '-2.679'), Scale: ('1', '1', '1')
+  Components: Class 54
+  - GO: stand (1) (ID: 698144532)
+    Pos: ('-0.023000002', '0.04100001', '0'), Scale: ('2.5400002', '2.750001', '5')
+    Components: Class 23 (Mats: Black 2.mat), Class 33, Class 64
+  - GO: base (1) (ID: 1001707068)
+    Pos: ('0', '0', '0'), Scale: ('10.160001', '8.89', '0.49999997')
+    Components: Class 23 (Mats: Black.mat), Class 33, Class 64
+  - GO: screen (1) (ID: 1118999773)
+    Pos: ('0.009000063', '0.21200001', '0'), Scale: ('25.400011', '0.8773801', '15.863501')
+    Components: Class 23 (Mats: Black 1.mat), Class 33, Class 64
+  - GO: screenframe (1) (ID: 1298603675)
+    Pos: ('0.0069999695', '0.20900011', '0'), Scale: ('26.67001', '0.95250005', '17.144999')
+    Components: Class 23 (Mats: Black.mat), Class 33, Class 64
+- GO: Cube (ID: 1210755221)
+  Pos: ('-3.2083', '1.82', '-5.2246'), Scale: ('0.16763026', '2.4280217', '20.584055')
+  Components: Class 65, Class 23 (Mats: Bricks.mat), Class 33
+- GO: Unknown (ID: 1251631155)
+  Components: Class 54
+- GO: Unknown (ID: 1251631156)
+  Components: Class 64
+- GO: Unknown (ID: 1251631157)
+  Components: Class 64
+- GO: Unknown (ID: 1251631158)
+  Components: Class 64
+- GO: Cube (2) (ID: 1257068550)
+  Pos: ('0.5166', '1.82', '-15.471'), Scale: ('0.22868527', '2.4280217', '7.300784')
+  Components: Class 65, Class 23 (Mats: Pink Bricks.mat), Class 33
+- GO: Unknown (ID: 1265249791)
+  Components: Class 54
+- GO: Unknown (ID: 1265249792)
+  Components: Class 64
+- GO: Unknown (ID: 1265249793)
+  Components: Class 64
+- GO: Unknown (ID: 1265249794)
+  Components: Class 64
+- GO: Unknown (ID: 1334490270)
+  Components: Class 54
+- GO: Unknown (ID: 1334490271)
+  Components: Class 64
+- GO: Unknown (ID: 1334490272)
+  Components: Class 64
+- GO: Unknown (ID: 1334490273)
+  Components: Class 64
+- GO: Unknown (ID: 1334490274)
+  Components: Class 64
+- GO: Unknown (ID: 1334490275)
+  Components: Class 64
+- GO: Unknown (ID: 1334490276)
+  Components: Class 64
+- GO: Unknown (ID: 1342550339)
+  Components: Class 54
+- GO: Unknown (ID: 1342550340)
+  Components: Class 64
+- GO: Unknown (ID: 1342550341)
+  Components: Class 64
+- GO: Unknown (ID: 1342550342)
+  Components: Class 64
+- GO: Cube (7) (ID: 1352844129)
+  Pos: ('3.2446', '1.82', '1.3839'), Scale: ('0.16763026', '2.4280217', '2.1938782')
+  Components: Class 65, Class 23 (Mats: Bricks.mat), Class 33
+- GO: Cube (12) (ID: 1420820719)
+  Pos: ('-3.08891', '1.816', '-2.1987'), Scale: ('0.43108198', '2.4280217', '0.034253698')
+  Components: Class 65, Class 23 (Mats: New Material 1.mat), Class 33
+- GO: Cube (16) (ID: 1432113399)
+  Pos: ('-1.88', '2.187', '1.896'), Scale: ('0.11090536', '0.5743087', '2.3316162')
+  Components: Class 65, Class 23 (Mats: Poster.mat), Class 33
+- GO: Unknown (ID: 1433103540)
+  Components: Class 54
+- GO: Unknown (ID: 1433103541)
+  Components: Class 64
+- GO: Unknown (ID: 1433103542)
+  Components: Class 64
+- GO: Unknown (ID: 1433103543)
+  Components: Class 64
+- GO: Unknown (ID: 1433103544)
+  Components: Class 64
+- GO: Unknown (ID: 1433103545)
+  Components: Class 64
+- GO: Unknown (ID: 1433103546)
+  Components: Class 64
+- GO: Unknown (ID: 1433103547)
+  Components: Class 64
+- GO: Unknown (ID: 1433103548)
+  Components: Class 64
+- GO: Unknown (ID: 1433103549)
+  Components: Class 64
+- GO: Unknown (ID: 1433103550)
+  Components: Class 64
+- GO: Cube (6) (ID: 1459718681)
+  Pos: ('3.7595', '1.82', '0.40109992'), Scale: ('0.22868527', '2.4280217', '0.9172764')
+  Components: Class 65, Class 23 (Mats: Bricks.mat), Class 33
+- GO: Unknown (ID: 1527280281)
+  Components: Class 54
+- GO: Unknown (ID: 1527280282)
+  Components: Class 64
+- GO: Unknown (ID: 1527280283)
+  Components: Class 64
+- GO: Unknown (ID: 1527280284)
+  Components: Class 64
+- GO: Unknown (ID: 1530799768)
+  Components: Class 54
+- GO: Unknown (ID: 1530799769)
+  Components: Class 64
+- GO: Unknown (ID: 1530799770)
+  Components: Class 64
+- GO: Unknown (ID: 1530799771)
+  Components: Class 64
+- GO: Unknown (ID: 1543120294)
+  Components: Class 54
+- GO: Unknown (ID: 1543120295)
+  Components: Class 64
+- GO: Unknown (ID: 1543120296)
+  Components: Class 64
+- GO: Unknown (ID: 1543120297)
+  Components: Class 64
+- GO: Directional Light (ID: 1546929973)
+  Pos: ('5.608', '3.49', '4.422'), Scale: ('1', '1', '1')
+  Components: Class 108
+- GO: Unknown (ID: 1564215781)
+  Components: Class 54
+- GO: Unknown (ID: 1564215782)
+  Components: Class 64
+- GO: Unknown (ID: 1564215783)
+  Components: Class 64
+- GO: Unknown (ID: 1564215784)
+  Components: Class 64
+- GO: Unknown (ID: 1600669759)
+  Components: Class 54
+- GO: Unknown (ID: 1600669760)
+  Components: Class 64
+- GO: Unknown (ID: 1600669761)
+  Components: Class 64
+- GO: Unknown (ID: 1600669762)
+  Components: Class 64
+- GO: Unknown (ID: 1600669763)
+  Components: Class 64
+- GO: Unknown (ID: 1600669764)
+  Components: Class 64
+- GO: Unknown (ID: 1600669765)
+  Components: Class 64
+- GO: Unknown (ID: 1600669766)
+  Components: Class 64
+- GO: Unknown (ID: 1600669767)
+  Components: Class 64
+- GO: Unknown (ID: 1600669768)
+  Components: Class 64
+- GO: Unknown (ID: 1600669769)
+  Components: Class 64
+- GO: Cube (18) (ID: 1602154777)
+  Pos: ('3.786', '1.6355', '-4.5589'), Scale: ('0.7017584', '1.742188', '1.3970541')
+  Components: Class 65, Class 23 (Mats: New Material.mat), Class 33
+- GO: Cube (4) (ID: 1647696353)
+  Pos: ('3.042', '1.82', '2.354'), Scale: ('0.22868527', '2.4280217', '2.352594')
+  Components: Class 65, Class 23 (Mats: Bricks.mat), Class 33
+- GO: Unknown (ID: 1659517493)
+  Components: Class 54
+- GO: Unknown (ID: 1659517494)
+  Components: Class 64
+- GO: Unknown (ID: 1659517495)
+  Components: Class 64
+- GO: Unknown (ID: 1659517496)
+  Components: Class 64
+- GO: Unknown (ID: 1683632571)
+  Components: Class 54
+- GO: Unknown (ID: 1683632572)
+  Components: Class 64
+- GO: Unknown (ID: 1683632573)
+  Components: Class 64
+- GO: Unknown (ID: 1683632574)
+  Components: Class 64
+- GO: Unknown (ID: 1683632575)
+  Components: Class 64
+- GO: Unknown (ID: 1683632576)
+  Components: Class 64
+- GO: Unknown (ID: 1683632577)
+  Components: Class 64
+- GO: Unknown (ID: 1683632578)
+  Components: Class 64
+- GO: Unknown (ID: 1683632579)
+  Components: Class 64
+- GO: Unknown (ID: 1683632580)
+  Components: Class 64
+- GO: Unknown (ID: 1683632581)
+  Components: Class 64
+- GO: Unknown (ID: 1707092976)
+  Components: Class 54
+- GO: Unknown (ID: 1707092977)
+  Components: Class 64
+- GO: Unknown (ID: 1707092978)
+  Components: Class 64
+- GO: Unknown (ID: 1707092979)
+  Components: Class 64
+- GO: Unknown (ID: 1707092980)
+  Components: Class 64
+- GO: Unknown (ID: 1707092981)
+  Components: Class 64
+- GO: Unknown (ID: 1707092982)
+  Components: Class 64
+- GO: Unknown (ID: 1707092983)
+  Components: Class 64
+- GO: Unknown (ID: 1707092984)
+  Components: Class 64
+- GO: Unknown (ID: 1707092985)
+  Components: Class 64
+- GO: Unknown (ID: 1707092986)
+  Components: Class 64
+- GO: Unknown (ID: 1731712108)
+  Components: Class 54
+- GO: Unknown (ID: 1731712109)
+  Components: Class 64
+- GO: Unknown (ID: 1731712110)
+  Components: Class 64
+- GO: Unknown (ID: 1731712111)
+  Components: Class 64
+- GO: Cube (22) (ID: 1779777184)
+  Pos: ('0.9629', '1.7362', '3.82'), Scale: ('1.6609858', '2.2681215', '0.5619393')
+  Components: Class 65, Class 23 (Mats: New Material.mat), Class 33
+- GO: Unknown (ID: 1794350480)
+  Components: Class 54
+- GO: Unknown (ID: 1794350481)
+  Components: Class 64
+- GO: Unknown (ID: 1794350482)
+  Components: Class 64
+- GO: Unknown (ID: 1794350483)
+  Components: Class 64
+- GO: Unknown (ID: 1794350484)
+  Components: Class 64
+- GO: Unknown (ID: 1794350485)
+  Components: Class 64
+- GO: Unknown (ID: 1794350486)
+  Components: Class 64
+- GO: Unknown (ID: 1794350487)
+  Components: Class 64
+- GO: Unknown (ID: 1794350488)
+  Components: Class 64
+- GO: Unknown (ID: 1794350489)
+  Components: Class 64
+- GO: Unknown (ID: 1794350490)
+  Components: Class 64
+- GO: Unknown (ID: 1807801553)
+  Components: Class 54
+- GO: Unknown (ID: 1807801554)
+  Components: Class 64
+- GO: Unknown (ID: 1807801555)
+  Components: Class 64
+- GO: Unknown (ID: 1807801556)
+  Components: Class 64
+- GO: Unknown (ID: 1807801557)
+  Components: Class 64
+- GO: Unknown (ID: 1807801558)
+  Components: Class 64
+- GO: Unknown (ID: 1807801559)
+  Components: Class 64
+- GO: Unknown (ID: 1807801560)
+  Components: Class 64
+- GO: Unknown (ID: 1807801561)
+  Components: Class 64
+- GO: Unknown (ID: 1807801562)
+  Components: Class 64
+- GO: Unknown (ID: 1807801563)
+  Components: Class 64
+- GO: Unknown (ID: 1813224157)
+  Components: Class 54
+- GO: Unknown (ID: 1813224158)
+  Components: Class 64
+- GO: Unknown (ID: 1813224159)
+  Components: Class 64
+- GO: Unknown (ID: 1813224160)
+  Components: Class 64
+- GO: Unknown (ID: 1813224161)
+  Components: Class 64
+- GO: Unknown (ID: 1813224162)
+  Components: Class 64
+- GO: Unknown (ID: 1813224163)
+  Components: Class 64
+- GO: Unknown (ID: 1813224164)
+  Components: Class 64
+- GO: Unknown (ID: 1813224165)
+  Components: Class 64
+- GO: Unknown (ID: 1813224166)
+  Components: Class 64
+- GO: Unknown (ID: 1813224167)
+  Components: Class 64
+- GO: Cube (17) (ID: 1885730324)
+  Pos: ('-2.7723', '1.2404', '-3.27'), Scale: ('0.7017584', '1.2767793', '0.69281137')
+  Components: Class 65, Class 23 (Mats: New Material.mat), Class 33
+- GO: Cube (5) (ID: 1901591824)
+  Pos: ('1.9452', '1.82', '3.2722003'), Scale: ('0.16763026', '2.4280217', '2.0593212')
+  Components: Class 65, Class 23 (Mats: Bricks.mat), Class 33
+- GO: Unknown (ID: 1926730793)
+  Components: Class 54
+- GO: Unknown (ID: 1926730794)
+  Components: Class 64
+- GO: Unknown (ID: 1926730795)
+  Components: Class 64
+- GO: Unknown (ID: 1926730796)
+  Components: Class 64
+- GO: Unknown (ID: 1926730797)
+  Components: Class 64
+- GO: Unknown (ID: 1926730798)
+  Components: Class 64
+- GO: Unknown (ID: 1926730799)
+  Components: Class 64
+- GO: Cube (9) (ID: 1943791396)
+  Pos: ('0.4496', '0.519', '-5.1606'), Scale: ('0.22868527', '7.408421', '20.7648')
+  Components: Class 65, Class 23 (Mats: Tiles.mat), Class 33
+- GO: Cube (21) (ID: 1952420393)
+  Pos: ('-2.4511', '1.1143', '-2.5904'), Scale: ('0.76275986', '1.0244877', '0.5619393')
+  Components: Class 65, Class 23 (Mats: New Material.mat), Class 33
+- GO: Unknown (ID: 1971566011)
+  Components: Class 54
+- GO: Unknown (ID: 1971566012)
+  Components: Class 64
+- GO: Unknown (ID: 1971566013)
+  Components: Class 64
+- GO: Unknown (ID: 1971566014)
+  Components: Class 64
+- GO: Unknown (ID: 1971566015)
+  Components: Class 64
+- GO: Unknown (ID: 1971566016)
+  Components: Class 64
+- GO: Unknown (ID: 1971566017)
+  Components: Class 64
+- GO: Unknown (ID: 1971566018)
+  Components: Class 64
+- GO: Unknown (ID: 1971566019)
+  Components: Class 64
+- GO: Unknown (ID: 1971566020)
+  Components: Class 64
+- GO: Unknown (ID: 1971566021)
+  Components: Class 64
+- GO: Cube (3) (ID: 1974215881)
+  Pos: ('0.5408999', '1.82', '4.2299004'), Scale: ('0.22868527', '2.4280217', '7.523238')
+  Components: Class 65, Class 23 (Mats: Bricks.mat), Class 33
+- GO: Unknown (ID: 1981519288)
+  Components: Class 54
+- GO: Unknown (ID: 1981519289)
+  Components: Class 64
+- GO: Unknown (ID: 1981519290)
+  Components: Class 64
+- GO: Unknown (ID: 1981519291)
+  Components: Class 64
+- GO: Unknown (ID: 1981519292)
+  Components: Class 64
+- GO: Unknown (ID: 1981519293)
+  Components: Class 64
+- GO: Unknown (ID: 1981519294)
+  Components: Class 64
+- GO: Unknown (ID: 1981519295)
+  Components: Class 64
+- GO: Unknown (ID: 1981519296)
+  Components: Class 64
+- GO: Unknown (ID: 1981519297)
+  Components: Class 64
+- GO: Unknown (ID: 1981519298)
+  Components: Class 64
+- GO: Cube (10) (ID: 2021534211)
+  Pos: ('-3.089', '3.018', '-2.536'), Scale: ('0.4309155', '0.035735983', '0.6966742')
+  Components: Class 65, Class 23 (Mats: New Material 1.mat), Class 33
+- GO: Unknown (ID: 2062060956)
+  Components: Class 54
+- GO: Unknown (ID: 2062060957)
+  Components: Class 64
+- GO: Unknown (ID: 2062060958)
+  Components: Class 64
+- GO: Unknown (ID: 2062060959)
+  Components: Class 64
+- GO: Unknown (ID: 2062060960)
+  Components: Class 64
+- GO: Unknown (ID: 2062060961)
+  Components: Class 64
+- GO: Unknown (ID: 2062060962)
+  Components: Class 64
+- GO: Unknown (ID: 5401869953331495484)
+  Components: Class 54
+- GO: Unknown (ID: 5401869953331495485)
+  Components: Class 64
+- GO: Unknown (ID: 5401869953331495486)
+  Components: Class 64
+- GO: Unknown (ID: 5401869953331495487)
+  Components: Class 64
+- GO: Unknown (ID: 5401869953331495488)
+  Components: Class 64
+- GO: Unknown (ID: 5401869953331495489)
+  Components: Class 64
+
+
+=========================================
+PREFAB INSTANCES:
+Prefab ID: 46492199, Name: desk3 (14), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 52321361, Name: computertest (12), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 151303168, Name: computertest (18), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 239192561, Name: desk3 (7), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 305383830, Name: computertest (3), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 346152619, Name: desk3 (2), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 382067971, Name: desk4, Asset: desk4.fbx, GUID: 24dd0a6f68926074681937215ed715b9
+Prefab ID: 417720357, Name: desk (1), Asset: desk.fbx, GUID: e82823234b6cb3e41a4589d04ee373b5
+Prefab ID: 449701644, Name: computertest (9), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 450424063, Name: computertest (5), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 474520008, Name: desk3 (6), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 539879474, Name: computertest (4), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 588286690, Name: computertest (13), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 595752341, Name: desk3 (3), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 643771127, Name: desk (4), Asset: desk.fbx, GUID: e82823234b6cb3e41a4589d04ee373b5
+Prefab ID: 688874422, Name: desk3 (13), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 763367447, Name: desk3 (9), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 836223411, Name: desk (7), Asset: desk.fbx, GUID: e82823234b6cb3e41a4589d04ee373b5
+Prefab ID: 846816752, Name: desk (3), Asset: desk.fbx, GUID: e82823234b6cb3e41a4589d04ee373b5
+Prefab ID: 945899944, Name: computertest (7), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 960009946, Name: computertest (1), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 1022053629, Name: desk (2), Asset: desk.fbx, GUID: e82823234b6cb3e41a4589d04ee373b5
+Prefab ID: 1034759617, Name: computertest (10), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 1064838297, Name: desk4 (1), Asset: desk4.fbx, GUID: 24dd0a6f68926074681937215ed715b9
+Prefab ID: 1107956283, Name: desk3 (8), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 1251631154, Name: desk3 (16), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 1265249790, Name: desk3 (12), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 1334490269, Name: desk (5), Asset: desk.fbx, GUID: e82823234b6cb3e41a4589d04ee373b5
+Prefab ID: 1342550338, Name: desk3 (15), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 1433103539, Name: computertest (11), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 1527280280, Name: desk3 (10), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 1530799767, Name: desk3 (4), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 1543120293, Name: desk3 (1), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 1564215780, Name: desk3, Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 1600669758, Name: computertest (16), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 1659517492, Name: desk3 (5), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 1683632570, Name: computertest (2), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 1707092975, Name: computertest (8), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 1731712107, Name: desk3 (11), Asset: desk3.fbx, GUID: a11bcc1ebddb3f44eb2645b30ce77d80
+Prefab ID: 1794350479, Name: computertest (6), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 1807801552, Name: computertest (14), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 1813224156, Name: computertest (17), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 1926730792, Name: desk, Asset: desk.fbx, GUID: e82823234b6cb3e41a4589d04ee373b5
+Prefab ID: 1971566010, Name: computertest (15), Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 1981519287, Name: computertest, Asset: computertest.fbx, GUID: ff32bfbec6db5f246a02f52d5c1849e9
+Prefab ID: 2062060955, Name: desk (11), Asset: desk.fbx, GUID: e82823234b6cb3e41a4589d04ee373b5
+Prefab ID: 5401869953331495483, Name: desk (6), Asset: desk (6).prefab, GUID: 828422d9d1b219240bbf107479953d0e

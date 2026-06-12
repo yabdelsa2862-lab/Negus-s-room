@@ -1,0 +1,7 @@
+FBX Structure: Assets/desk (6).fbx
+- desk (6)
+  - Cube_001
+  - pillar
+  - pillar2
+  - shelf
+  - top

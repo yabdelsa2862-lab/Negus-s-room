@@ -1,0 +1,5 @@
+FBX Structure: Assets/Room desk and computer models/Untitled.fbx
+- Untitled
+  - Camera
+  - Light
+  - Mesh_0

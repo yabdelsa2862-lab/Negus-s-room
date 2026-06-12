@@ -1,0 +1,52 @@
+Root Door: Door
+Position: (1.91, 1.76, 3.23)
+Rotation: (0.00, 0.00, 0.00)
+Local Scale: (1.00, 1.00, 1.00)
+Rigidbody: Yes
+  Mass: 25
+  IsKinematic: False
+  UseGravity: True
+HingeJoint: Yes
+  Anchor: (0.00, 0.00, -0.54)
+  Axis: (0.00, 1.00, 0.00)
+  Use Limits: True
+  Limits Min: -130, Max: 0
+DoorController: Yes
+
+Children of Door:
+- Child 0: Door
+  Local Pos: (0.00, 0.00, 0.00)
+  Local Rot: (270.02, 0.00, 0.00)
+  Local Scale: (3.64, 45.21, 107.83)
+  Mesh Bounds Center: (0.00, 0.00, 0.00)
+  Mesh Bounds Size: (0.02, 0.02, 0.02)
+  Calculated bounds in parent local: min (-0.04, -1.08, 0.45), max (0.04, 1.08, -0.45)
+  Colliders Count: 1
+    Collider Type: MeshCollider, Enabled: True
+- Child 1: DoorHandle
+  Local Pos: (-0.16, -0.18, 0.26)
+  Local Rot: (0.00, 0.00, 0.00)
+  Local Scale: (79.21, 83.25, 100.00)
+  Mesh Bounds Center: (0.00, 0.00, 0.00)
+  Mesh Bounds Size: (0.00, 0.00, 0.00)
+  Calculated bounds in parent local: min (-0.17, -0.20, 0.19), max (-0.07, -0.16, 0.38)
+  Colliders Count: 1
+    Collider Type: MeshCollider, Enabled: True
+- Child 2: DoorHandleHolder
+  Local Pos: (-0.05, -0.18, 0.35)
+  Local Rot: (0.00, 90.00, 270.00)
+  Local Scale: (106.94, 173.07, 227.59)
+  Mesh Bounds Center: (0.00, 0.00, 0.00)
+  Mesh Bounds Size: (0.00, 0.00, 0.00)
+  Calculated bounds in parent local: min (-0.07, -0.14, 0.40), max (-0.03, -0.23, 0.31)
+  Colliders Count: 1
+    Collider Type: MeshCollider, Enabled: True
+- Child 3: Lock
+  Local Pos: (-0.06, -0.04, 0.35)
+  Local Rot: (270.02, 0.00, 0.00)
+  Local Scale: (100.00, 164.64, 183.53)
+  Mesh Bounds Center: (0.00, 0.00, 0.00)
+  Mesh Bounds Size: (0.00, 0.00, 0.00)
+  Calculated bounds in parent local: min (-0.07, -0.12, 0.40), max (-0.04, 0.05, 0.31)
+  Colliders Count: 1
+    Collider Type: MeshCollider, Enabled: True
