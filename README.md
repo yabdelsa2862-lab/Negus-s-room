@@ -25,7 +25,7 @@ An interactive 3D simulation of a real-world high school classroom environment (
 | **Grab / Pick Up Object** | `Left Click` (Hold) | Grabs light physics objects (computers, screens, stools) or pulls heavy objects (desks). |
 | **Rotate Grabbing Object** | `Right Click` (Hold) + `Mouse` | Rotates the object currently carried in hand on local axes. |
 | **Throw / Drop Object** | `F` / `E` / `Middle Click` / Release `Left Click` | Launches the carried physics object forward. |
-| **Interact with PC** | `E` | Log into the room computer network terminal (only when not carrying an object). |
+| **Interact with PC** (currently doesn't work) | `E` | Log into the room computer network terminal (only when not carrying an object). |
 | **Lock / Unlock Cabinet** | `L` | Toggles the lock state on looked-at cabinet doors, locking them in place. |
 | **Toggle Cursor Lock / Pause** | `Escape` | Toggles mouse cursor lock state between locked (for look movement) and unlocked (for menus). |
 
