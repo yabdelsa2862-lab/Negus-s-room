@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "mcp__unity-mcp__Unity_GetProjectData",
-      "mcp__unity-mcp__Unity_GetUserGuidelines",
-      "Bash(Test-Path *)"
-    ]
-  }
-}
